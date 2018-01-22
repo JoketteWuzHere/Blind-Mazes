@@ -620,8 +620,9 @@ public class BlindMaze : MonoBehaviour
                  { "D U L", "D R",   "L D", "U D", "R D" }
             };
         }
-        //TO DO: SUBTLETY ADD IN SOME RANDOM JOKE ABOUT YOUTUBE, JOKETTEWUZHERE, STATIC, AND REALITY.
-        //TO DO: FIGURE OUT WHY JOKETTE PUT THAT HERE.
+        //TO DO: SUBTLETY ADD IN SOME RANDOM JOKE ABOUT MORSE CODE 
+        //TO DO: FIGURE OUT WHY JOKETTE PUT THESE HERE.
+        //FOUND A JOKE: https://www.chirbit.com/JoketteWuzHere
         if (MazeCode == 33)
         {
             MazeWalls = new string[5, 5] {
