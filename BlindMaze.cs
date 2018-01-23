@@ -620,7 +620,9 @@ public class BlindMaze : MonoBehaviour
                  { "D U L", "D R",   "L D", "U D", "R D" }
             };
         }
-        //TO DO: SUBTLETY MENTION A (GREEN) THUMB AND A (SHIFT) KEY AND (FIVE) STRAWBERRIES ON A CHOCOLATE CAKE
+        //TO DO: SUBTLETY ADD IN A JOKE ABOUT CODES
+        //TO DO: FIGURE OUT WHY JOKETTE PUZ THAT HERE.
+        //FOUND ONE: aHR0cHM6Ly93d3cuY2hpcmJpdC5jb20vSm9rZXR0ZVd1ekhlcmU=
         if (MazeCode == 33)
         {
             MazeWalls = new string[5, 5] {
